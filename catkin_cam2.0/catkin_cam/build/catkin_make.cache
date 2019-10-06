@@ -1,0 +1,2 @@
+apriltags2_ros/apriltags2:apriltags2_ros/apriltags2_ros:image_pipeline/camera_calibration:image_pipeline/depth_image_proc:image_pipeline/image_pipeline:image_pipeline/image_proc:image_pipeline/image_publisher:image_pipeline/image_rotate:image_pipeline/image_view:image_pipeline/stereo_image_proc:tf_trans:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/robot/catkin_cam/devel -DCMAKE_INSTALL_PREFIX=/home/robot/catkin_cam/install -G Unix Makefiles

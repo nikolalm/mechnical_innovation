@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_cam/devel
+
+Name: tf_trans
+Description: Description of tf_trans
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robot/catkin_cam/devel/lib 
+Requires: 

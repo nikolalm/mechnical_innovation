@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_cam/devel
+
+Name: camera_calibration
+Description: Description of camera_calibration
+Version: 1.13.0
+Cflags: 
+Libs: -L/home/robot/catkin_cam/devel/lib 
+Requires: 

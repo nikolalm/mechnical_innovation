@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_cam/install
+
+Name: apriltags2
+Description: Description of apriltags2
+Version: 0.9.8
+Cflags: -I/home/robot/catkin_cam/install/include
+Libs: -L/home/robot/catkin_cam/install/lib -lapriltags2
+Requires: 

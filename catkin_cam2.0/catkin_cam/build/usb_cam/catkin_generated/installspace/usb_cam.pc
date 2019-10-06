@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_cam/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/robot/catkin_cam/install/include
+Libs: -L/home/robot/catkin_cam/install/lib -lusb_cam
+Requires: 
